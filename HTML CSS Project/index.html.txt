@@ -1,0 +1,23 @@
+<html>
+  <main>
+  <link rel=stylesheet type="text/css" herf="#" />
+  <div class="main">
+  <h1>Verify Your Account</h1>
+  <p>
+    We emailed you the six digit code to cool_guy@email.com<br />
+   Enter the code below to confirm your email address
+  </p>
+    <div class="content">
+  <input class="otpbox" type="text" maxlength="1" type="name" placeholder="1" required />
+  <input class="otpbox type="text" maxlength="1" type="name" placeholder="0" required />
+  <input class="otpbox type="text" maxlength="1" type="name" placeholder="0" required />
+  <input class="otpbox type="text" maxlength="1" type="name" placeholder="0" required />
+  <input class="otpbox type="text" maxlength="1" type="name" placeholder="0" required />
+  <input class="otpbox type="text" maxlength="1" type="name" placeholder="0" required />
+    </div>
+    <p class="notice">
+      This is design only. we didn't actually send you email as we don't have your email,right?
+    </p>
+  </div>
+ </main>
+</html>
